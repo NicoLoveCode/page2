@@ -1,0 +1,13 @@
+html{
+    background-image: linear-gradient(to right, black , gray);
+}
+
+.head2{
+    font: bold;
+    font-size: 245%;
+    color: rgb(196.71, 196.71, 196.71);
+}
+
+p{
+    color: rgb(196.71, 196.71, 196.71);;
+}
